@@ -7,5 +7,6 @@ public class MyApp {
         System.out.println("Обьем паралелепипеда=" + volume);
         int Lengt =a*4+b*4+c*4;
         System.out.println("Сумарная длина всех сторон=" + Lengt);
+        //Коментарий для проверки комитов в гитхаб
     }
 }
